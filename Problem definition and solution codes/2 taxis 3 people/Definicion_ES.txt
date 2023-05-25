@@ -1,0 +1,3 @@
+En una empresa de viajes tienen que agrupar a tres personas en dos taxis. Tienen que asignarle a cada persona un taxi teniendo en cuenta que la persona 1 y
+la persona 2 se llevan bien, pero la persona 3 se lleva mal y no quiere ir con ninguna de las otras dos.
+

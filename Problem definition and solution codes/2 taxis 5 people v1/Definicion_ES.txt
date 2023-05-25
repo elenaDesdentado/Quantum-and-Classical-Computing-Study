@@ -1,0 +1,2 @@
+La persona 1 y 2 pueden ir únicamente juntas en un taxi, las otras tres personas deben ir en el otro taxi. Se debe tener en cuenta que en un taxi pueden ir 
+4 personas incluído el conductor.

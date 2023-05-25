@@ -1,0 +1,1 @@
+Existe un número que debe ser descubierto. Para ello existe una función, a modo de caja negra, que toma como entrada unos bits que representan un número y devuelve un bit, 0 ó 1 para expresar si se ha descubierto o no dicho número. En este caso la codificación del número en binario toma 3 bits/qubits y hay un bit/qubit extra que indica si se ha llegado a la solución.

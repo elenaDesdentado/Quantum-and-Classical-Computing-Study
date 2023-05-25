@@ -1,0 +1,1 @@
+La persona 1 y 2 no pueden ir juntas, se pueden realizar todas las combinaciones posibles teniendo eso en cuenta. Se debe también considerar que en un taxi pueden ir 4 personas incluído el conductor.
